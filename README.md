@@ -1,4 +1,4 @@
-# 🎨 Nada's Personal Website
+# 🎨 Shahad's Personal Website
 
 This is my personal portfolio website created as part of **Week 2 – Task 1** of the Smart Methods Internship program.
 
@@ -8,11 +8,9 @@ It serves as a simple yet professional introduction to who I am, the skills I’
 
 ## 👩‍💻 About Me
 
-I’m Nada, a 2024 graduate from the Faculty of Computer and Information Science.
-
-I recently completed a 9-month track in **Open Source Application Development** at the **Information Technology Institute (ITI)**, where I gained practical experience in full-stack web development using open-source technologies.
-
-I’m passionate about software development, especially backend work, and I enjoy building real-world applications.
+I’m Shahad,
+ student majoring in computer science at Qassim University, interested in technology, programming and problem solving, I have experience in many programming languages, I have practical experience through projects and I work to develop my skills
+through training
 
 ---
 
@@ -46,8 +44,8 @@ I’m passionate about software development, especially backend work, and I enjo
 
 ## 📫 Contact Me
 
-- Email: nadamohammedehab@gmail.com
-- GitHub: [NadaEhab00](https://github.com/NadaEhab00)
+- Email: sa16.se91@gmail.com
+- GitHub: [shahad-122](https://github.com/shahad-122)   
 
 ---
 
